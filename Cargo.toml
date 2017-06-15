@@ -1,0 +1,6 @@
+[package]
+name = "rusty-json-learning"
+version = "0.1.0"
+authors = ["snowlt23 <shsnow23@gmail.com>"]
+
+[dependencies]
