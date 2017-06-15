@@ -1,3 +1,4 @@
 /target/
+/rusty-json-serialize-macro/target/
 **/*.rs.bk
 Cargo.lock
